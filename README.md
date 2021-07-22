@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h2 >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Jyotirmoy Roy !!</h2>
-<h3 >A passionate Full Stack Web and Android Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
+<h2  align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Jyotirmoy Roy !!</h2>
+<h3  align="center">A passionate Full Stack Web and Android Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsRoy69&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyroy" /> </p>
