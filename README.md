@@ -19,6 +19,7 @@
 <p align="center">- 📫 How to reach me **jyotirmoyroy649@gmail.com**</p>
 
 <p align="center">- ⚡ Fun fact **I do sketching and read books whenever I feel free!!**</p>
+<p align="center">- :open_book: :books: Skilled in :closed_book: :desktop_computer:</p>
 
 <hr>
 
