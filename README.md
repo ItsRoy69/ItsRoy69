@@ -14,7 +14,7 @@
 
 <p align="center">- 👯 I’m looking to collaborate on **Full Stack projects**</p>
 
-<p align="center">- 💬 Ask me about ** DSA, JS, React, Node, C & Java**</p>
+<p align="center">- 💬 Ask me about **DSA, JS, React, Node, C & Java**</p>
 
 <p align="center">- 📫 How to reach me **jyotirmoyroy649@gmail.com**</p>
 
