@@ -64,3 +64,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsRoy69&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="jyotirmoyroy" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&theme=dracula&show_icons=true&count_private=true&locale=en" alt="jyotirmoyroy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=dracula&" alt="jyotirmoyroy" /></p>
