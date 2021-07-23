@@ -44,8 +44,11 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajason"><img alt="Json" src="https://img.shields.io/badge/Json%20-%232370ED.svg?logo=Json&logoColor=grey"></a>
    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3ADart"><img alt="Json" src="https://img.shields.io/badge/Dart%20-%232370ED.svg?logo=Dart&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AKotlin"><img alt="Json" src="https://img.shields.io/badge/Kotlin%20-%232370ED.svg?logo=Kotlin&logoColor=red"></a>
   
   
   <p align="center"> ### 🧰 Frameworks and libraries</p>
@@ -57,8 +60,9 @@
   <a href="#"><img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%23366488.svg?logo=jekyll&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-   <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/-Angular.js-green"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-blue"></a>
+   <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular.js-21759B?logo=angularjs&logoColor=red"></a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
+  
   
   <p align="center"> ### 🗄️ Databases and cloud hosting</p>
   <p align="center">
@@ -72,9 +76,8 @@
   
   <p align="center"> ### 💻 Software and tools</p>
 
- 
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Matlab-blue"></a>
-   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+ <a href="#"><img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
