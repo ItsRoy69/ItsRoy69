@@ -9,7 +9,7 @@
 
 <hr>
 
-<h2 align="center">## 🏆 Github Profile Trophy</h2>
+<h2 align="center"> 🏆 Github Profile Trophy</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
 
 <br>
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3 align="center">## 🛠️Languages and Tools🛠️</h3>
+<h3 align="center">  🛠️Languages and Tools🛠️</h3>
 <br>
 
 <p align="center"> 
@@ -51,7 +51,7 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AKotlin"><img alt="Json" src="https://img.shields.io/badge/Kotlin%20-%232370ED.svg?logo=Kotlin&logoColor=red"></a>
   
   
-  <p align="center"> ### 🧰 Frameworks and libraries</p>
+  <p align="center"> 🧰 Frameworks and libraries</p>
   <p align="center"> 
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
@@ -95,7 +95,7 @@
  <br>
  <hr>
  
- <h2 align="center">## 💻 My Github stats 💻 </h2> 
+ <h2 align="center"> 💻 My Github stats 💻 </h2> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsRoy69&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyroy" /> </p>
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsRoy69&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="jyotirmoyroy" /></p>
@@ -105,7 +105,7 @@
 
 <hr>
 
-<h3 align="center">## 🌐Let's Connect:</h3>
+<h3 align="center"> 🌐Let's Connect:</h3>
 <p align="center">
 <a href="https://dev.to/itsroy69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
 <a href="https://twitter.com/itsmeroy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
