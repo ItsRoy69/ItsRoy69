@@ -21,7 +21,7 @@
 
 <p align="center">- 💬 Ask me about **DSA, JS, React, Node, C & Java**</p>
 
-<p align="center">- 📫 How to reach me <href =https://mail.google.com/mail/u/0/?tab=rm&ogbl>**jyotirmoyroy649@gmail.com**</p>
+<p align="center">- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">**jyotirmoyroy649@gmail.com**</p>
 
 <p align="center">- ⚡ Fun fact **I do sketching and read books whenever I feel free!!**</p>
 <p align="center">- :open_book: :books: Skilled in :closed_book: :desktop_computer:</p>
