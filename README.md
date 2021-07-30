@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3 align="center">🛠️Languages and Tools🛠️</h3>
+<h3 align="center">## 🛠️Languages and Tools🛠️</h3>
 <br>
 
 <p align="center"> 
@@ -95,7 +95,7 @@
  <br>
  <hr>
  
- <h2 align="center"> 💻 My Github stats 💻 </h2> 
+ <h2 align="center">## 💻 My Github stats 💻 </h2> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsRoy69&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyroy" /> </p>
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsRoy69&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="jyotirmoyroy" /></p>
@@ -105,7 +105,7 @@
 
 <hr>
 
-<h3 align="center"> 🌐Let's Connect:</h3>
+<h3 align="center">## 🌐Let's Connect:</h3>
 <p align="center">
 <a href="https://dev.to/itsroy69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
 <a href="https://twitter.com/itsmeroy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
