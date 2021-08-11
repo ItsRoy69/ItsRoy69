@@ -49,6 +49,7 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3ADart"><img alt="Json" src="https://img.shields.io/badge/Dart%20-%232370ED.svg?logo=Dart&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AKotlin"><img alt="Json" src="https://img.shields.io/badge/Kotlin%20-%232370ED.svg?logo=Kotlin&logoColor=red"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aejs"><img alt="EJS" src="https://img.shields.io/badge/EJS%20-%232370ED.svg?logo=ejs&logoColor=white"></a>
   
   
   <p align="center"> 🧰 Frameworks and libraries</p>
