@@ -7,6 +7,10 @@
 
 <h3  align="center">A passionate Full Stack Web and Android Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 
+<p align="center">
+<img class="center" src="https://github.com/imsoumen/imsoumen/blob/main/developer.gif?raw=true" href="https://github.com/imsoumen" alt="Hola Coders"  width="550"/> 
+</p>
+
 <hr>
 
 <h2 align="center"> 🏆 Github Profile Trophy</h2>
