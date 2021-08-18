@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=FAFF00&size=24&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+android%2C+web..;Be+Consistent.+Have+a+good+day+!!"></a>
 </p>
 
-<h3  align="center">A passionate Full Stack Web and Android Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
+<h3  align="center">A passionate Software Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 
 <p align="center">
 <img class="center" src="https://github.com/imsoumen/imsoumen/blob/main/developer.gif?raw=true" href="https://github.com/imsoumen" alt="Hola Coders"  width="550"/> 
