@@ -116,6 +116,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&theme=dracula&show_icons=true&count_private=true&locale=en" alt="jyotirmoyroy" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=dracula&" alt="jyotirmoyroy" /></p>
+<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&theme=redical" alt="jyotirmoyroy" /></p>
 
 <hr>
 
