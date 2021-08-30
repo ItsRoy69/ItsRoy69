@@ -52,6 +52,7 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3ADart"><img alt="Json" src="https://img.shields.io/badge/Dart%20-%232370ED.svg?logo=Dart&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AKotlin"><img alt="Json" src="https://img.shields.io/badge/Kotlin%20-%232370ED.svg?logo=Kotlin&logoColor=red"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AEmbeddedJs"><img alt="Java" src="https://img.shields.io/badge/EJS-%23007396.svg?logo=EJS&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atex"><img alt="EJS" src="https://img.shields.io/badge/Latex%20-red.svg?logo=latex&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23E34F26.svg?logo=GraphQL&logoColor=white"></a>
   
