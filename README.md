@@ -55,6 +55,7 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AKotlin"><img alt="Json" src="https://img.shields.io/badge/Kotlin%20-%232370ED.svg?logo=Kotlin&logoColor=red"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aejs"><img alt="EJS" src="https://img.shields.io/badge/EJS%20-%232370ED.svg?logo=ejs&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atex"><img alt="EJS" src="https://img.shields.io/badge/Latex%20-red.svg?logo=latex&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23E34F26.svg?logo=GraphQL&logoColor=white"></a>
   
   
   <p align="center"> 🧰 Frameworks and libraries</p>
