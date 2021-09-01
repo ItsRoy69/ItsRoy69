@@ -102,6 +102,7 @@
       <a href="#"><img alt="Bootstrap Studio" src="https://img.shields.io/badge/-Bootstrap Studio-FB542B?logo=bootstrap-studio&logoColor=white"></a>
        <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm%20-%23green.svg?logo=Pycharm&logoColor=white"></a>
        <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-3DDC84?logo=Blender&logoColor=orange"></a>
+       <a href="#"><img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-FB542B?logo=robo3t&logoColor=white"></a>
      
  </p>
  
