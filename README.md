@@ -65,6 +65,7 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular.js-21759B?logo=angularjs&logoColor=red"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-%2302569B.svg?logo=redux&logoColor=white"></a>
   
   
   <p align="center"> ### 🗄️ Databases and cloud hosting</p>
