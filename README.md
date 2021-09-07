@@ -67,6 +67,7 @@
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-%2302569B.svg?logo=redux&logoColor=white"></a>
   <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23366488.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-FE7A16?logo=mongoose&logoColor=white"></a>
   
   
   <p align="center"> ### 🗄️ Databases and cloud hosting</p>
@@ -102,6 +103,7 @@
    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm%20-%23green.svg?logo=Pycharm&logoColor=white"></a>
    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-3DDC84?logo=Blender&logoColor=orange"></a>
    <a href="#"><img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-FB542B?logo=robo3t&logoColor=white"></a>
+   
       
      
  </p>
