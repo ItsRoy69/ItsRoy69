@@ -29,6 +29,10 @@
 
 <hr>
 
+
+
+<details>   <summary>:zap:More</summary>
+
 <h3 align="center">  🛠️Languages and Tools🛠️</h3>
 <br>
 
@@ -107,6 +111,7 @@
      <a href="#"><img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-FB542B?logo=robo3t&logoColor=white"></a>
        
  </p>
+  
  
  <br>
  <br>
@@ -119,6 +124,8 @@
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&theme=dracula&show_icons=true&count_private=true&locale=en"  alt="jyotirmoyroy" /></p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=dracula&" alt="jyotirmoyroy" /></p>
  <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&theme=redical" alt="jyotirmoyroy" /></p>
+  
+  </details>
 
  <hr>
 
