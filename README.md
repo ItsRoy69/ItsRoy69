@@ -66,6 +66,7 @@
   <a href="#"><img alt="Angular.js" src="https://img.shields.io/badge/Angular.js-21759B?logo=angularjs&logoColor=red"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-%2302569B.svg?logo=redux&logoColor=white"></a>
+  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23366488.svg?logo=numpy&logoColor=white"></a>
   
   
   <p align="center"> ### 🗄️ Databases and cloud hosting</p>
