@@ -56,7 +56,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AEmbeddedJs"><img alt="Java" src="https://img.shields.io/badge/EJS-%23007396.svg?logo=EJS&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atex"><img alt="EJS" src="https://img.shields.io/badge/Latex%20-red.svg?logo=latex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23E34F26.svg?logo=GraphQL&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23F7DF1E.svg?logo=swift&logoColor=black"></a>
+      
   </p>
   
   <p align="center"> 🧰 Frameworks and libraries</p>
