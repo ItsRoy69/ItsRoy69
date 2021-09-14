@@ -82,7 +82,9 @@
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src ="https://img.shields.io/badge/Notion-%234ea94b.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src ="https://img.shields.io/badge/Notion-%234ea94b.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>
+    
   </p>
   
   
