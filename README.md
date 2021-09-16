@@ -36,8 +36,7 @@
 <h3 align="center">  🛠️Languages and Tools🛠️</h3>
 <br>
 
-<p align="center"> 
-### 👨‍💻 Programming languages
+<p align="center"> 👨‍💻 Programming languages </p>
 
 <p align="center"> 
       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -59,7 +58,7 @@
       
   </p>
   
-  <p align="center"> 🧰 Frameworks and libraries</p>
+  <p align="center"> 🧰 Frameworks and libraries </p>
   <p align="center"> 
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
@@ -75,7 +74,7 @@
       <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-FE7A16?logo=mongoose&logoColor=white"></a>
   </p>
   
-  <p align="center"> ### 🗄️ Databases and cloud hosting</p>
+  <p align="center"> 🗄️ Databases and cloud hosting </p>
   <p align="center">
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -88,7 +87,7 @@
   </p>
   
   
-  <p align="center"> ### 💻 Software and tools</p>
+  <p align="center"> 💻 Software and tools </p>
 
    <p align="center">
      <a href="#"><img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>
@@ -134,7 +133,7 @@
 
  <hr>
 
-<h3 align="center"> 🌐Let's Connect:</h3>
+<h3 align="center"> 🌐Let's Connect: </h3>
 <p align="center">
 <a href="https://dev.to/itsroy69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
 <a href="https://twitter.com/itsmeroy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
