@@ -50,7 +50,7 @@
       <img alt="Json" src="https://img.shields.io/badge/Json%20-%232370ED.svg?logo=Json&logoColor=grey"></a>
       <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
       <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-      <img alt="Json" src="https://img.shields.io/badge/Dart%20-%232370ED.svg?logo=Dart&logoColor=white"></a>
+      <img alt="Json" src="https://img.shields.io/badge/Dart%20-%23FF0000.svg?logo=Dart&logoColor=white"></a>
       <img alt="Json" src="https://img.shields.io/badge/Kotlin%20-%232370ED.svg?logo=Kotlin&logoColor=red"></a>
       <img alt="Java" src="https://img.shields.io/badge/EJS-%23007396.svg?logo=EJS&logoColor=white"></a>
       <img alt="EJS" src="https://img.shields.io/badge/Latex%20-red.svg?logo=latex&logoColor=white"></a>
@@ -67,9 +67,9 @@
       <img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%23366488.svg?logo=jekyll&logoColor=white"></a>
       <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <img alt="Angular.js" src="https://img.shields.io/badge/Angular.js-21759B?logo=angularjs&logoColor=red"></a>
+      <img alt="Angular.js" src="https://img.shields.io/badge/Angular.js%20-%23430098?logo=angularjs&logoColor=red"></a>
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
-      <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%2302569B.svg?logo=redux&logoColor=white"></a>
+      <img alt="Redux" src="https://img.shields.io/badge/Redux-%2300f.svg?logo=redux&logoColor=white"></a>
       <img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23366488.svg?logo=numpy&logoColor=white"></a>
       <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-FE7A16?logo=mongoose&logoColor=white"></a>
   </p>
