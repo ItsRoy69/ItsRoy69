@@ -83,7 +83,6 @@
       <img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
       <img alt="Notion" src ="https://img.shields.io/badge/Notion-%234ea94b.svg?logo=notion&logoColor=white"></a>
       <img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%23430098.svg?logo=netlify&logoColor=white"></a>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
       <img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23010101.svg?logo=notion&logoColor=white"></a>
       <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
       <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a>
