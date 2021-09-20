@@ -22,7 +22,7 @@
 
 <p align="center">- 🌱 I’m currently learning **Flutter** and **UI/UX** & **Personal side projects**</p>
 <p align="center">- 👯 I’m looking to collaborate on **Full Stack projects**</p>
-<p align="center">- 💬 Ask me about **DSA, JS, React, Node, C & Java**</p>
+<p align="center">- 💬 Ask me about **DSA, MERN, C , C++ & Java**</p>
 <p align="center">- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">jyotirmoyroy649@gmail.com</p></a>
 <p align="center">- ⚡ Fun fact **I do sketching and read books whenever I feel free!!**</p>
 <p align="center">- :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
