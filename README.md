@@ -70,6 +70,7 @@
       <img alt="Angular.js" src="https://img.shields.io/badge/Angular.js%20-%23430098?logo=angularjs&logoColor=red"></a>
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%2302569B.svg?logo=bootstrap&logoColor=white"></a>
       <img alt="Redux" src="https://img.shields.io/badge/Redux-%2300f.svg?logo=redux&logoColor=white"></a>
+      <img alt="Material UI" src="https://img.shields.io/badge/Material UI%20-%232370ED.svg?logo=MaterialUI&logoColor=red"></a>
       <img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23366488.svg?logo=numpy&logoColor=white"></a>
       <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-FE7A16?logo=mongoose&logoColor=white"></a>
       <img alt="NextJs" src="https://img.shields.io/badge/Next.js%20-%23FF0000.svg?logo=Next.js&logoColor=white"></a>
