@@ -112,10 +112,10 @@
      <img alt="Figma" src="https://img.shields.io/badge/-Figma-blue?logo=brave&logoColor=white"></a>
      <img alt="Dev-c++" src="https://img.shields.io/badge/Dev c++%20-%23F05033.svg?logo=devc++&logoColor=white"></a>
      <img alt="Atom" src="https://img.shields.io/badge/Atom%20-%23008678.svg?logo=atom&logoColor=white"></a>
-     <img alt="Bootstrap Studio" src="https://img.shields.io/badge/-Bootstrap Studio-FB542B?logo=bootstrap-studio&logoColor=white"></a>
+     <img alt="Bootstrap Studio" src="https://img.shields.io/badge/-Bootstrap Studio%20-%23430098.svg?logo=bootstrap-studio&logoColor=white"></a>
      <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm%20-%23green.svg?logo=Pycharm&logoColor=white"></a>
      <img alt="Blender" src="https://img.shields.io/badge/Blender-3DDC84?logo=Blender&logoColor=orange"></a>
-     <img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-FB542B?logo=robo3t&logoColor=white"></a>
+     <img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-%2300f?logo=robo3t&logoColor=white"></a>
        
  </p>
   
