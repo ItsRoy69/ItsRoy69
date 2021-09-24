@@ -33,7 +33,7 @@
 
 <details>   <summary>:zap:More</summary>
 
-<h3 align="center">  🛠️Languages and Tools🛠️</h3>
+<h3 align="center">  🛠️ Languages and Tools 🛠️</h3>
 <br>
 
 <p align="center"> 👨‍💻 Programming languages </p>
