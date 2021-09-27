@@ -88,6 +88,8 @@
       <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
       <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a>
       <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+      <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300f.svg?logo=nosql&logoColor=white"></a>
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23430098.svg?logo=firebase&logoColor=white"></a>
     
   </p>
   
