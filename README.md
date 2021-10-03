@@ -90,6 +90,7 @@
       <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
       <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%2300f.svg?logo=nosql&logoColor=white"></a>
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23430098.svg?logo=firebase&logoColor=white"></a>
+      <img alt="Docker" src ="https://img.shields.io/badge/Docker%20-%23FF0000.svg?logo=docker&logoColor=white"></a>
     
   </p>
   
