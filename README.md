@@ -146,6 +146,6 @@
 <a href="https://dev.to/itsroy69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
 <a href="https://twitter.com/itsmeroy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/jyotirmoy-roy-615821201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotirmoyroy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr._bong_kid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
+<a href="https://www.instagram.com/itsmeroy69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
 </p>
 
