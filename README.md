@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://github.com/ItsRoy69/ItsRoy69/blob/main/header_.png)
 
-<h2  align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Jyotirmoy Roy !!</h2>
+<h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="35px">, I'm Jyotirmoy Roy !!</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></a>
