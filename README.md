@@ -136,9 +136,7 @@
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
  <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="jyotirmoyroy" /></p>
- <h1 align="center"> Contribution graph being eaten by a Snake! 🐍 </h1>
-
-![Watch my contribution graph being eaten by a Snake!](https://github.com/ItsRoy69/ItsRoy69/blob/main/snake.svg)
+ 
   
   </details>
 
