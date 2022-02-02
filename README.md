@@ -119,7 +119,8 @@
      <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm%20-%23green.svg?logo=Pycharm&logoColor=white"></a>
      <img alt="Blender" src="https://img.shields.io/badge/Blender-3DDC84?logo=Blender&logoColor=orange"></a>
      <img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-%2300f?logo=robo3t&logoColor=white"></a>     
-     <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-FB542B?logo=ant-design&logoColor=white"></a>
+     <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-FB542B?logo=ant-design&logoColor=white"></a>     
+     <img alt="GoogleCloud" src="https://img.shields.io/badge/Google Cloud-yellow?logo=googlecloud&logoColor=blue"></a>
        
  </p>
   
