@@ -45,7 +45,6 @@
       <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
       <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
       <img alt="Json" src="https://img.shields.io/badge/Json%20-%232370ED.svg?logo=Json&logoColor=grey"></a>
       <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
@@ -98,7 +97,8 @@
   <p align="center"> 💻 Software and tools </p>
 
    <p align="center">
-     <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>
+     <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>     
+     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
      <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
