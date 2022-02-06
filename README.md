@@ -139,6 +139,17 @@
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
  <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="jyotirmoyroy" /></p>
  
+ 
+ <h2 align="center">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Backend Developer Intern | [CGI](https://http://cgiconnects.ml/) | Jan 2022 - Present |
+| Fullstack Developer Intern | [Sparks Foundation](https://www.thesparksfoundationsingapore.org/) | Feb 2022 - Present |
+| Developer Intern | [Microsoft](https://www.microsoft.com/) | Feb 2022 - Present |
+| Fullstack Developer | [ACM-UEM](https://www.redhat.com/en) | November 2021 - Present |
+| Open source mentor | [Diversion](https://diversion.tech/) | Jan 2022 - Present |
+ 
   
   </details>
 
