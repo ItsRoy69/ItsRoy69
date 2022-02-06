@@ -142,13 +142,43 @@
  
  <h2 align="center">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Backend Developer Intern | [CGI](https://http://cgiconnects.ml/) | Jan 2022 - Present |
-| Fullstack Developer Intern | [Sparks Foundation](https://www.thesparksfoundationsingapore.org/) | Feb 2022 - Present |
-| Developer Intern | [Microsoft](https://www.microsoft.com/) | Feb 2022 - Present |
-| Fullstack Developer | [ACM-UEM](https://www.redhat.com/en) | November 2021 - Present |
-| Open source mentor | [Diversion](https://diversion.tech/) | Jan 2022 - Present |
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <b>Backend Developer Intern</b> </td>
+      <td><a href="https://http://cgiconnects.ml/"/><b>CGI</b></a></td>
+      <td> <b>Jan 2022 - Present </b> </td>
+   </tr>   
+   <tr>
+      <td> <b> Fullstack Developer Intern </b> </td>
+      <td><a href="https://www.thesparksfoundationsingapore.org"/><b>Sparks Foundation</b></a></td>
+      <td> <b> Feb 2022 - Present  </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Developer Intern </b> </td>
+      <td><a href="https://www.microsoft.com/"/><b>Microsoft</b></a></td>
+      <td> <b> Feb 2022 - Present  </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Fullstack Developer </b> </td>
+      <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
+      <td> <b> Nov 2021 - Present  </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Open source mentor </b> </td>
+      <td><a href="https://diversion.tech/"/><b>Diversion</b></a></td>
+      <td> <b> Jan 2022 - Present  </b> </td>
+   </tr>
+   </tbody>	 
+</table>
+
  
   
   </details>
