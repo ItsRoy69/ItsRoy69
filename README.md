@@ -179,7 +179,13 @@
    </tbody>	 
 </table>
 
- 
+<h2 align="center">Achievements 🏆🏅🎉</h2> 
+  <div align="center">
+    <li><a href="https://devfolio.co/submissions/datasaver-bc7d" />1. 3st Prize In Hackathon (SNU,2021)</a></li>
+    <li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li>
+    <li><a href="https://www.linkedin.com/posts/haktoberfest2019-hacktoberfest2019-digitalocean-activity-6593966104467599360-unkY" />Digital Ocean Hacktober Fest Qualified (2019)</a></li>
+  
+  </div>
   
   </details>
 
