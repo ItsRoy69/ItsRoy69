@@ -162,11 +162,6 @@
       <td> <b> Feb 2022 - Present  </b> </td>
    </tr>
    <tr>
-      <td> <b> Developer Intern </b> </td>
-      <td><a href="https://www.microsoft.com/"/><b>Microsoft</b></a></td>
-      <td> <b> Feb 2022 - Present  </b> </td>
-   </tr>
-   <tr>
       <td> <b> Fullstack Developer </b> </td>
       <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
       <td> <b> Nov 2021 - Present  </b> </td>
