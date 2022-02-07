@@ -181,10 +181,13 @@
 
 <h2 align="center">Achievements 🏆🏅🎉</h2> 
   <table align="center">
-    <td><li><a href="https://devfolio.co/submissions/datasaver-bc7d" /> 3rd Prize In Hackathon (SNU,2021)</a></li> </td>
-    <td><li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li></td>
-    <td><li><a href="https://www.linkedin.com/posts/haktoberfest2019-hacktoberfest2019-digitalocean-activity-6593966104467599360-unkY" />Digital Ocean HacktoberFest Qualified (2019)</a></li></td>
-  
+    <tr>
+      <td><li><a href="https://devfolio.co/submissions/datasaver-bc7d" /> 3rd Prize In Hackathon (SNU,2021)</a></li> </td>
+      <td><li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li></td>
+      <td><li><a href="https://www.linkedin.com/posts/haktoberfest2019-hacktoberfest2019-digitalocean-activity-6593966104467599360-unkY" />Digital Ocean HacktoberFest Qualified (2019)</a></li></td>
+    </tr>
+    <tr>      
+      <td><li><a href="https://devfolio.co/submissions/vesttech-ce67" /> top 5th Prize In Hackathon (Vividhata: A Blend of Ideas,2021)</a></li> </td>
   </table>
   
   </details>
