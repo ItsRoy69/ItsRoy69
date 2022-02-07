@@ -130,6 +130,11 @@
  <hr>
  
  <h2 align="center"> 💻 My Github stats 💻 </h2> 
+ 
+ <p align="center"> 
+   <img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social" href='https://github.com/ItsRoy69'/> 
+ </p>
+ 
  <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=ItsRoy69&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyroy" /> 
  </p>
