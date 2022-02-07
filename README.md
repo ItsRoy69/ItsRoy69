@@ -132,7 +132,7 @@
  <h2 align="center"> 💻 My Github stats 💻 </h2> 
  
  <p align="center"> 
-   <img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social" href='https://github.com/ItsRoy69'/> 
+   <a href="https://github.com/ItsRoy69"><img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social"/> </a>
  </p>
  
  <p align="center"> 
