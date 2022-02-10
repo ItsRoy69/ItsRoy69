@@ -63,7 +63,6 @@
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
       <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-      <img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit%20-%23366488.svg?logo=jekyll&logoColor=white"></a>
       <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <img alt="Angular.js" src="https://img.shields.io/badge/Angular.js%20-%23430098?logo=angularjs&logoColor=red"></a>
