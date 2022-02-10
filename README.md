@@ -187,6 +187,8 @@
     </tr>
     <tr>      
       <td><li><a href="https://devfolio.co/submissions/vesttech-ce67" /> Top 5th Prize In Hackathon (Vividhata: A Blend of Ideas,2021)</a></li> </td>
+      <td><li><a href="https://devfolio.co/submissions/vesttech-ce67" /> Won Silver Medal for achieving excellence in scoring more than 80% in ICSE from Syama Prasad Mookerjee Port, Kolkata</a></li> </td>
+    </tr>  
   </table>
   
   </details>
