@@ -157,7 +157,7 @@
   <tbody>
     <tr>
       <td> <b>Backend Developer Intern</b> </td>
-      <td><a href="https://http://cgiconnects.ml/"/><b>CGI</b></a></td>
+      <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
       <td> <b>Jan 2022 - Present </b> </td>
    </tr>   
    <tr>
