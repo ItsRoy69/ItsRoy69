@@ -90,6 +90,7 @@
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23430098.svg?logo=firebase&logoColor=white"></a>
       <img alt="Docker" src ="https://img.shields.io/badge/Docker%20-%23FF0000.svg?logo=docker&logoColor=white"></a>
       <img alt="Azure" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoftazure&logoColor=white"></a>
+      <img alt="Amazon" src="https://img.shields.io/badge/Web Services-%2300f.svg?logo=amazon&logoColor=white"></a>
     
   </p>
   
