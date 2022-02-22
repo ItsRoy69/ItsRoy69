@@ -138,6 +138,7 @@
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="500px"/></p>
  <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="jyotirmoyroy" /></p>
  
+  <hr>
  
  <h2 align="left">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
