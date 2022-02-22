@@ -198,9 +198,9 @@
 
 <h2 align="left"> 🌐Let's Connect: </h2>
 <p align="center">
-<a href="https://dev.to/itsroy69"><img style="padding-right:10px" align="left" alt="db's DEV" width="24px" src="pics/iconfinder_twitter_circle_294709.png" /></a>
-<a href="https://twitter.com/itsmeroy69"><img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="pics/iconfinder_twitter_circle_294709.png" /></a>
-<a href="https://www.linkedin.com/in/jyotirmoyroy69/"><img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" align="center" /></a>
-<a href="https://www.instagram.com/itsmeroy69/"><img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="pics/iconfinder_instagram_1632517.png" /></a>
+<a href="https://dev.to/itsroy69"><img style="padding-right:10px" align="left" alt="db's DEV" width="24px" src="iconfinder_dev_1632517.png" /></a>
+<a href="https://twitter.com/itsmeroy69"><img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="iconfinder_twitter_circle_294709.png" /></a>
+<a href="https://www.linkedin.com/in/jyotirmoyroy69/"><img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="iconfinder_linkedin_circle_294706.png" align="center" /></a>
+<a href="https://www.instagram.com/itsmeroy69/"><img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="iconfinder_instagram_1632517.png" /></a>
 </p>
 
