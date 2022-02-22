@@ -138,7 +138,7 @@
  </p>
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRoy69&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450px"/>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="500px"/></p>
  <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="jyotirmoyroy" /></p>
  
