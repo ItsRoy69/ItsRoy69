@@ -8,24 +8,21 @@
 
 <h3  align="center">A passionate Web Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 
-<p align="center">
-<img class="center" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders"  width="550"/> 
-</p>
+<img align="right" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders" width="500" height="320"/> 
 
-<hr>
-
-<h2 align="center"> 🏆 Github Profile Trophy</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
+<h2 align="left"> About me: 🤔</h2>
+• 🌱 I’m currently exploring *Web 3.0* 🌐</p>
+• 👯 I’m looking to collaborate on *Full Stack projects*</p>
+• 💬 Ask me about *MERN , DSA , C , C++ & Java*</p>
+• 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">jyotirmoyroy649@gmail.com</p></a>
+• ⚡ Fun fact - I do sketching whenever I feel free!!</p>
+• :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
 
 <br>
 <br>
 
-<p align="center">- 🌱 I’m currently learning **Web 3.0** and **UI/UX** and **Personal side projects**</p>
-<p align="center">- 👯 I’m looking to collaborate on **Full Stack projects**</p>
-<p align="center">- 💬 Ask me about **MERN , DSA , C , C++ & Java**</p>
-<p align="center">- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">jyotirmoyroy649@gmail.com</p></a>
-<p align="center">- ⚡ Fun fact **I do sketching and read books whenever I feel free!!**</p>
-<p align="center">- :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
+<h2 align="left"> 🏆 Github Profile Trophy</h2>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
 
 <hr>
 
@@ -33,12 +30,12 @@
 
 <details>   <summary>:zap:More</summary>
 
-<h2 align="center">  🛠️ Languages and Tools 🛠️</h2>
+<h2 align="left">  🛠️ Languages and Tools 🛠️</h2>
 <br>
 
-<p align="center"> 👨‍💻 Programming languages </p>
+<p align="left"> 👨‍💻 Programming languages </p>
 
-<p align="center"> 
+<p align="left"> 
       <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
       <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
       <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -57,8 +54,8 @@
       
   </p>
   
-  <p align="center"> 🧰 Frameworks and libraries </p>
-  <p align="center"> 
+  <p align="left"> 🧰 Frameworks and libraries </p>
+  <p align="left"> 
       <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
@@ -74,8 +71,8 @@
       <img alt="NextJs" src="https://img.shields.io/badge/Next.js%20-%23FF0000.svg?logo=Next.js&logoColor=white"></a>
   </p>
   
-  <p align="center"> 🗄️ Databases and cloud hosting </p>
-  <p align="center">
+  <p align="left"> 🗄️ Databases and cloud hosting </p>
+  <p align="left">
       <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -95,9 +92,9 @@
   </p>
   
   
-  <p align="center"> 💻 Software and tools </p>
+  <p align="left"> 💻 Software and tools </p>
 
-   <p align="center">
+   <p align="left">
      <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>     
      <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
      <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -130,7 +127,7 @@
  <br>
  <hr>
  
- <h2 align="center"> 💻 My Github stats 💻 </h2> 
+ <h2 align="left"> 💻 My Github stats 💻 </h2> 
  
  <p align="center"> 
    <a href="https://github.com/ItsRoy69"><img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social"/> </a>
@@ -140,15 +137,15 @@
    <img src="https://komarev.com/ghpvc/?username=ItsRoy69&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyroy" /> 
  </p>
  
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRoy69&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRoy69&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="500px"/></p>
  <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="jyotirmoyroy" /></p>
  
  
- <h2 align="center">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
+ <h2 align="left">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
-<table align="center">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b> 💼 Designation </b></td> 
@@ -180,7 +177,9 @@
    </tbody>	 
 </table>
 
-<h2 align="center">Achievements 🏆🏅🎉</h2> 
+ <hr>
+ 
+<h2 align="left">Achievements 🏆🏅🎉</h2> 
   <table align="center">
     <tr>
       <td><li><a href="https://devfolio.co/submissions/datasaver-bc7d" /> 3rd Prize In Hackathon (SNU,2021)</a></li> </td>
@@ -197,11 +196,11 @@
 
  <hr>
 
-<h2 align="center"> 🌐Let's Connect: </h2>
+<h2 align="left"> 🌐Let's Connect: </h2>
 <p align="center">
-<a href="https://dev.to/itsroy69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
-<a href="https://twitter.com/itsmeroy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/jyotirmoyroy69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotirmoyroy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itsmeroy69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotirmoyroy" height="40" width="40" /></a>
+<a href="https://dev.to/itsroy69"><img style="padding-right:10px" align="left" alt="db's DEV" width="24px" src="pics/iconfinder_twitter_circle_294709.png" /></a>
+<a href="https://twitter.com/itsmeroy69"><img style="padding-right:10px" align="left" alt="db's Twitter" width="24px" src="pics/iconfinder_twitter_circle_294709.png" /></a>
+<a href="https://www.linkedin.com/in/jyotirmoyroy69/"><img style="padding-right:10px; padding-left:5px" align="left" alt="db's LinkedIn" width="24px" src="pics/iconfinder_linkedin_circle_294706.png" align="center" /></a>
+<a href="https://www.instagram.com/itsmeroy69/"><img style="padding-right:10px;" align="left" alt="db's Instagram" width="24px" src="pics/iconfinder_instagram_1632517.png" /></a>
 </p>
 
