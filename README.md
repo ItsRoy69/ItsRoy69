@@ -7,11 +7,11 @@
 <img align="right" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders" width="500" height="320"/> 
 
 <h2 align="left"> About me: 🤔</h2>
-• 🌱 I’m currently exploring *Web 3.0* 🌐</p>
-• 👯 I’m looking to collaborate on *Full Stack projects*</p>
-• 💬 Ask me about *MERN , DSA , C , C++ & Java*</p>
-• 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">jyotirmoyroy649@gmail.com</p></a>
-• ⚡ Fun fact - I do sketching whenever I feel free!!</p>
+• 🌱 I’m currently exploring **Web 3.0** 🌐</p>
+• 👯 I’m looking to collaborate on **Full Stack projects** </p>
+• 💬 Ask me about **MERN , DSA , C , C++ & Java** </p>
+• 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">here .</p></a>
+• ⚡ Fun fact - First digital computer came to India in 1953!!</p>
 • :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
 
 <br>
