@@ -1,12 +1,8 @@
 ![](https://github.com/ItsRoy69/ItsRoy69/blob/main/header_.png)
 
 <h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="35px">, I'm Jyotirmoy Roy !!</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></a>
-</p>
-
 <h3  align="center">A passionate Web Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
 <img align="right" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders" width="500" height="320"/> 
 
