@@ -171,6 +171,11 @@
       <td><a href="https://diversion.tech/"/><b>Diversion</b></a></td>
       <td> <b> Jan 2022 - Present  </b> </td>
    </tr>
+<tr>
+      <td> <b> Open source mentor </b> </td>
+      <td><a href="https://gssoc.girlscript.tech/"/><b>GirlScript Foundation</b></a></td>
+      <td> <b> Feb 2022 - Present  </b> </td>
+   </tr>
    </tbody>	 
 </table>
 
