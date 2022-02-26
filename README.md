@@ -4,7 +4,7 @@
 <h3  align="center">A passionate Web Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
-<img align="right" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders" width="500" height="320"/> 
+<img align="right" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
 <h2 align="left"> About me: 🤔</h2>
 • 🌱 I’m currently exploring **Web 3.0** 🌐</p>
