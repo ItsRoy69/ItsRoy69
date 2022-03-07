@@ -183,7 +183,7 @@
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
   <li><a href="https://devfolio.co/submissions/datasaver-bc7d" /> 3rd Prize In Hackathon (SNU,2021)</a></li>  
-  <li><a href="https://devfolio.co/submissions/vesttech-ce67" /> Top 6th Prize In Hackathon (Vividhata: A Blend of Ideas,2021)</a></li>
+  <li><a href="https://devfolio.co/submissions/vestteh-ce67" /> Top 6th Prize In Hackathon (Vividhata: A Blend of Ideas,2021)</a></li>
   <li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li>
   <li><a href="https://dev.to/itsroy69/since-i-want-something-to-post--3ojn" />Digital Ocean HacktoberFest Qualified (2021)</a></li>
   <li><a href="https://twitter.com/itsmeroy69/status/1491758345564274689" /> Won Silver Medal for scoring > 80% in ICSE from Kolkata Port.</a></li>
