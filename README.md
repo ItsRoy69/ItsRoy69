@@ -154,12 +154,17 @@
     <tr>
       <td> <b>Backend Developer Intern</b> </td>
       <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
-      <td> <b>Jan 2022 - Present </b> </td>
+      <td> <b>Jan 2022 - May 2022 </b> </td>
    </tr>   
    <tr>
       <td> <b> Fullstack Developer Intern </b> </td>
       <td><a href="https://www.thesparksfoundationsingapore.org"/><b>Sparks Foundation</b></a></td>
-      <td> <b> Feb 2022 - Present  </b> </td>
+      <td> <b> Jan 2022 - Mar 2022  </b> </td>
+   </tr>
+   <tr>
+      <td> <b> FRT Intern </b> </td>
+      <td><a href="https://www.microsoft.com/en-in/"/><b>Microsoft</b></a></td>
+      <td> <b> Feb 2022 - Apr 2022  </b> </td>
    </tr>
    <tr>
       <td> <b> Fullstack Developer </b> </td>
@@ -169,7 +174,7 @@
    <tr>
       <td> <b> Open source mentor </b> </td>
       <td><a href="https://diversion.tech/"/><b>Diversion</b></a></td>
-      <td> <b> Jan 2022 - Present  </b> </td>
+      <td> <b> Jan 2022 - Apr 2022  </b> </td>
    </tr>
 <tr>
       <td> <b> Open source mentor </b> </td>
