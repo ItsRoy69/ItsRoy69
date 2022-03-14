@@ -180,7 +180,7 @@
 <tr>
       <td> <b> Open source mentor </b> </td>
       <td><a href="https://gssoc.girlscript.tech/"/><b>GirlScript Foundation</b></a></td>
-      <td> <b> Feb 2022 - Present  </b> </td>
+      <td> <b> Feb 2022 - May 2022  </b> </td>
    </tr>
    </tbody>	 
 </table>
