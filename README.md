@@ -1,4 +1,4 @@
-![](https://github.com/ItsRoy69/ItsRoy69/blob/main/header_.png)
+![Banner](https://user-images.githubusercontent.com/78967360/158324969-32ed223d-7156-48b7-b04c-5382bb5496d3.png)
 
 <h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="35px">, I'm Jyotirmoy Roy !!</h2>
 <h3  align="center">A passionate Web Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
