@@ -13,7 +13,7 @@
 • 📄 Check my resume <a href="https://linktr.ee/roy69">here</a>.  </p>
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">here</a>.</p>
 • ⚡ Fun fact - First digital computer came to India in 1953!!</p>
-• :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
+• :open_book: :books: Skilled in reading books! </p>
 
 <br>
 <br>
