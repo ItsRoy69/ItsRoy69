@@ -174,7 +174,7 @@
    <tr>
       <td> <b> FRT Intern </b> </td>
       <td><a href="https://www.microsoft.com/en-in/"/><b>Microsoft</b></a></td>
-      <td> <b> Feb 2022 - Apr 2022  </b> </td>
+      <td> <b> Jan 2022 - Apr 2022  </b> </td>
    </tr>
    <tr>
       <td> <b> Fullstack Developer </b> </td>
