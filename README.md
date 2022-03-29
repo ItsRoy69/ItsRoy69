@@ -48,6 +48,7 @@
       <img alt="Java" src="https://img.shields.io/badge/EJS-%23007396.svg?logo=EJS&logoColor=white"></a>
       <img alt="EJS" src="https://img.shields.io/badge/Latex%20-red.svg?logo=latex&logoColor=white"></a>
       <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-%23E34F26.svg?logo=GraphQL&logoColor=white"></a>
+      <img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%23000000.svg?logo=Solidity&logoColor=white"></a>
       
   </p>
   
