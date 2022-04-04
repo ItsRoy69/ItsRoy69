@@ -198,7 +198,8 @@
  <hr>
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 3rd Prize In Hackathon (SNU,2021)</a></li>  
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 2nd Prize In Ureckathon (UEMK,2022)</a></li>  
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 3rd Prize In DecHack (SNU,2021)</a></li>  
   <li><a href="https://drive.google.com/file/d/1Pz9DNJ-WEPuCOTeeMd0PpD01WXBhcF4g/view?usp=sharing" /> Top 6th Prize In Hackathon (Vividhata: A Blend of Ideas,2021)</a></li>
   <li><a href="https://drive.google.com/file/d/1AW27TjR-PqlXUAk_xeI79OOwffmkXxaT/view?usp=sharing" /> Top 8th Teams In Hackathon (Infinite Clone Conspiracy,2021)</a></li>
   <li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li>
