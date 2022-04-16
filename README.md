@@ -118,6 +118,7 @@
      <img alt="Robo 3T" src="https://img.shields.io/badge/-Robo 3T-%2300f?logo=robo3t&logoColor=white"></a>     
      <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-FB542B?logo=ant-design&logoColor=white"></a>     
      <img alt="GoogleCloud" src="https://img.shields.io/badge/Google Cloud-yellow?logo=googlecloud&logoColor=blue"></a>
+     <img alt="Jira" src="https://img.shields.io/badge/-Jira-FE7A16?logo=Jira&logoColor=white"></a> 
        
  </p>
   
