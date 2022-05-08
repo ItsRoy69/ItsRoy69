@@ -165,6 +165,11 @@
   </thead>
   <tbody>
     <tr>
+      <td> <b>Software Developer Intern</b> </td>
+      <td><a href="https://www.mindwebs.org/"/><b>MIND WEBS</b></a></td>
+      <td> <b>May 2022 - Present</b> </td>
+   </tr> 
+    <tr>
       <td> <b>Backend Developer Intern</b> </td>
       <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
       <td> <b>Jan 2022 - May 2022 </b> </td>
