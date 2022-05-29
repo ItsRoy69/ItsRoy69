@@ -4,20 +4,21 @@
 <h3  align="center">A passionate Web Developer who is currently pursuing his B.Tech degree in CSE from University of Engineering & Management, Kolkata.</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
-<img align="right" src="https://github.com/ItsRoy69/ItsRoy69/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
-
+<p align="center" width="1000" height="350">
 <h2 align="left"> About me: 🤔</h2>
-• 🌱 I’m currently exploring **Web 3.0** 🌐</p>
-• 👯 I’m looking to collaborate on **Full Stack projects** </p>
-• 💬 Ask me about **MERN , DSA , C , C++ & Java** </p>
-• 📄 Check my resume <a href="https://linktr.ee/roy69">here</a>.  </p>
-• 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">here</a>.</p>
-• ⚡ Fun fact - First digital computer came to India in 1953!!</p>
-• :open_book: :books: Skilled in reading books! </p>
+<p align="left"> • 🌱 I’m currently exploring **Web 3.0** 🌐</p>
+<p align="left"> • 👯 I’m looking to collaborate on **Full Stack projects** </p>
+<p align="left"> • 💬 Ask me about **MERN , DSA , C , C++ & Java** </p>
+<p align="left"> • 📄 Check my resume <a href="https://linktr.ee/roy69">here</a>.  </p>
+<p align="left"> • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">here</a>.</p>
+<p align="left"> • ⚡ Fun fact - First digital computer came to India in 1953!!</p>
+<p align="left"> • :open_book: :books: Skilled in reading books! </p>
 
-<br>
-<br>
-
+<p align="right">
+      <img src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="400" height="350"/> 
+</p>
+</p>
+      
 <h2 align="left"> 🏆 Github Profile Trophy</h2>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
 
