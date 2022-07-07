@@ -217,11 +217,12 @@
 <hr>
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In IemHacks (IEMK,2022)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 2nd Prize In Ureckathon (UEMK,2022)</a></li>  
   <li><a href="https://devfolio.co/projects/doctalk-95b6" /> Most Creative Use of GitHub Prize In Hack4Bengal(SNU,2022)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 3rd Prize In DecHack (SNU,2021)</a></li>  
-  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 3rd Prize In DecHack (SNU,2021)</a></li> 
   <li><a href="https://twitter.com/commudle/status/1458088707882459141" />Winner of Share Your Build contest by Commudle,2021</a></li>
   <li><a href="https://dev.to/itsroy69/since-i-want-something-to-post--3ojn" />Digital Ocean HacktoberFest Qualified (2021)</a></li>
      
