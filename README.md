@@ -124,7 +124,6 @@
  
  <br>
  <br>
- <hr>
  
  <h2 align="left"> 💻 My Github stats 💻 </h2> 
  
@@ -201,7 +200,7 @@
    </tbody>	 
 </table>
 
- <hr>
+
  
  ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
@@ -214,7 +213,34 @@
 <p>➡️ More blog posts from <a href="https://medium.com/@ItsRoy69">Medium</a> or <a href="https://hashnode.com/@ItsRoy69">Hashnode</a></p>
 
 
-<hr>
+
+ ## Popular Open-Source Repositories you can Contribute🔺👑
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+	 <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+	      <td><a href="https://github.com/ItsRoy69/DocTalk"><b>DocTalk</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>    
+      </tr>	
+      <tr>
+            <td><a href="https://github.com/ItsRoy69/VestTech"><b>VestTech</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
+     </tr> 
+  </tbody>	 
+</table>
+
+
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
