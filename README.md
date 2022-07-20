@@ -160,6 +160,11 @@
   </thead>
   <tbody>   
     <tr>
+      <td> <b>Project Admin</b> </td>
+      <td><a href="https://ssoc.getsocialnow.co/"/><b>SSOC-2022</b></a></td>
+      <td> <b>Aug 2022 - Oct 2022 </b> </td>
+    </tr> 
+    <tr>
       <td> <b>Backend Developer Intern</b> </td>
       <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
       <td> <b>Jan 2022 - May 2022 </b> </td>
