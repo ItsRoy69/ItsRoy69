@@ -131,10 +131,7 @@
    <a href="https://github.com/ItsRoy69"><img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social"/> </a>
  </p>
  
- <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=ItsRoy69&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyroy" /> 
- </p>
- 
+
  <p align="center">
       <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
