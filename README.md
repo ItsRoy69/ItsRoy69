@@ -176,7 +176,7 @@
    </tr>
    <tr>
       <td> <b> FRT Intern </b> </td>
-      <td><a href="https://www.microsoft.com/en-in/"/><b>Microsoft</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Microsoft</b></a></td>
       <td> <b> Jan 2022 - Apr 2022  </b> </td>
    </tr>
    <tr>
@@ -186,12 +186,12 @@
    </tr>
    <tr>
       <td> <b> Open source mentor </b> </td>
-      <td><a href="https://diversion.tech/"/><b>Diversion</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Diversion</b></a></td>
       <td> <b> Jan 2022 - Apr 2022  </b> </td>
    </tr>
 <tr>
       <td> <b> Open source mentor </b> </td>
-      <td><a href="https://gssoc.girlscript.tech/"/><b>GirlScript Foundation</b></a></td>
+      <td><a href="https://drive.google.com/file/d/1pOnrcZdK3xGWoqT3_KEPXhtv6NkfdNeC/view?usp=sharing"/><b>GirlScript Foundation</b></a></td>
       <td> <b> Feb 2022 - May 2022  </b> </td>
    </tr>
    </tbody>	 
@@ -223,7 +223,7 @@
   </thead>
   <tbody>
       <tr>
-	      <td><a href="https://github.com/ItsRoy69/DocTalk"><b>DocTalk</b></a></td>
+	    <td><a href="https://github.com/ItsRoy69/DocTalk"><b>DocTalk</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>    
@@ -240,7 +240,7 @@
 
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://www.linkedin.com/posts/jyotirmoyroy69_got-selected-for-microsoft-learn-students-activity-6953381598620766208-k4l5?utm_source=linkedin_share&utm_medium=member_desktop_web" /> Microsoft Learn Student Ambassador Among 100,000 registrations around the world (2022-24)</a></li> 
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Microsoft Learn Student Ambassador among 100,000 registrations around the world (2022-24)</a></li> 
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In IemHacks (IEMK,2022)</a></li>
