@@ -158,12 +158,7 @@
       <td><b> ⏰Timeline  </b></td> 
       </tr>
   </thead>
-  <tbody>   
-    <tr>
-      <td> <b>Project Admin</b> </td>
-      <td><a href="https://ssoc.getsocialnow.co/"/><b>SSOC-2022</b></a></td>
-      <td> <b>Aug 2022 - Oct 2022 </b> </td>
-    </tr> 
+  <tbody> 
     <tr>
       <td> <b>Backend Developer Intern</b> </td>
       <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
