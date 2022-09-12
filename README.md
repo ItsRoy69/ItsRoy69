@@ -93,7 +93,9 @@
   <p align="left"> 💻 Software and tools </p>
 
    <p align="left">
-     <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>     
+     <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-FE7A16?logo=matlab&logoColor=white"></a>    
+     <img alt="Alchemy" src="https://img.shields.io/badge/Alchemy%20-%3DDC84.svg?logo=alchemy&logoColor=white"></a>
+     <img alt="Cranq" src="https://img.shields.io/badge/Cranq-FF6C37?logo=Cranq&logoColor=white"></a>
      <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
      <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
