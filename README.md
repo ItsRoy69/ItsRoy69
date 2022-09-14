@@ -20,11 +20,11 @@
  
  <h2 align="left"> 💻 My Github stats 💻 </h2> 
  
- 
+ <p align="center">
    <a href="https://github.com/ItsRoy69"><img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social"/> </a>
+ </p>
  
- 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
 
 
  <p align="center">
