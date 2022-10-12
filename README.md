@@ -17,31 +17,7 @@
 
  <br>
  <br>
- 
- <h2 align="left"> 💻 My Github stats 💻 </h2> 
- 
- <p align="center">
-   <a href="https://github.com/ItsRoy69"><img src="https://img.shields.io/github/followers/ItsRoy69?label=follow&style=social"/> </a>
- </p>
- 
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItsRoy69&theme=juicyfresh" alt="jyotirmoyroy" /></a> </p>
-
- <p align="center">
-      <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRoy69&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-      <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
-</p>
-
- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRoy69&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ItsRoy69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450px"/>
-
- 
- 
- <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ItsRoy69&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="jyotirmoyroy" /></p>
- 
-  <hr>
+  
  
  <h2 align="left">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
@@ -54,21 +30,26 @@
       </tr>
   </thead>
   <tbody> 
+   <tr>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://sckilled.com/"/><b>Sckilled</b></a></td>
+      <td> <b>Aug 2022 - Present </b> </td>
+   </tr>
     <tr>
-      <td> <b>Backend Developer Intern</b> </td>
+      <td> <b>Software Developer Intern</b> </td>
       <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
       <td> <b>Jan 2022 - May 2022 </b> </td>
-   </tr>   
+   </tr>  
+   <tr>
+      <td> <b> Project Intern </b> </td>
+      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Microsoft</b></a></td>
+      <td> <b> Jan 2022 - Apr 2022  </b> </td>
+   </tr>
    <tr>
       <td> <b> Fullstack Developer Intern </b> </td>
       <td><a href="https://www.thesparksfoundationsingapore.org"/><b>Sparks Foundation</b></a></td>
       <td> <b> Jan 2022 - Mar 2022  </b> </td>
-   </tr>
-   <tr>
-      <td> <b> FRT Intern </b> </td>
-      <td><a href="https://drive.google.com/file/d/1YFvHkbGwB2QxDNDXMSCSUkY1K8VWoUqI/view?usp=sharing"/><b>Microsoft</b></a></td>
-      <td> <b> Jan 2022 - Apr 2022  </b> </td>
-   </tr>
+   </tr>   
    <tr>
       <td> <b> Fullstack Developer </b> </td>
       <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
@@ -85,6 +66,33 @@
       <td> <b> Feb 2022 - May 2022  </b> </td>
    </tr>
    </tbody>	 
+</table>
+
+
+
+ <h2 align="left">🏃 Volunteering Experience :🙋‍♂️: :desktop_computer: </h2> 
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody> 
+   <tr>
+      <td> <b>Fullstack Developer</b> </td>
+      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>UEM-IEM Cyclothon</b></a></td>
+      <td> <b>Feb 2022 - Present </b> </td>
+   </tr>
+    <tr>
+      <td> <b>Student Coordinator</b> </td>
+      <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>GDSC UEMK</b></a></td>
+      <td> <b>Aug 2022 - Present </b> </td>
+   </tr>  
+   
+  </tbody>	 
 </table>
 
 
@@ -131,7 +139,8 @@
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
-  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Co-Lead (2022-23)</a></li> 
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
+  <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Vice Chancellor's Award for Best Techno Wiz, 2022 </a></li> 
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Microsoft Learn Student Ambassador among 100,000 registrations around the world (2022-24)</a></li> 
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
