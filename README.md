@@ -51,10 +51,10 @@
       <td> <b> Jan 2022 - Mar 2022  </b> </td>
    </tr>   
    <tr>
-      <td> <b> Fullstack Developer </b> </td>
-      <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
-      <td> <b> Nov 2021 - Present  </b> </td>
-   </tr>
+      <td> <b> Frontend Engineer Intern </b> </td>
+      <td><a href="https://flutrr.com/"/><b>Fluttr</b></a></td>
+      <td> <b> Aug 2021 - Dec 2021  </b> </td>
+   </tr>  
    <tr>
       <td> <b> Open source mentor </b> </td>
       <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Diversion</b></a></td>
@@ -81,16 +81,21 @@
       </tr>
   </thead>
   <tbody> 
-   <tr>
-      <td> <b>Fullstack Developer</b> </td>
-      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>UEM-IEM Cyclothon</b></a></td>
-      <td> <b>Feb 2022 - Present </b> </td>
-   </tr>
     <tr>
       <td> <b>Student Coordinator</b> </td>
       <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>GDSC UEMK</b></a></td>
       <td> <b>Aug 2022 - Present </b> </td>
    </tr>  
+   <tr>
+      <td> <b>Fullstack Developer</b> </td>
+      <td><a href="https://uemcyclothon.uem.edu.in/"/><b>UEM-IEM Cyclothon</b></a></td>
+      <td> <b>Feb 2022 - Mar 2022 </b> </td>
+   </tr>
+    <tr>
+      <td> <b> Fullstack Developer </b> </td>
+      <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
+      <td> <b> Nov 2021 - Present  </b> </td>
+   </tr>
    
   </tbody>	 
 </table>
@@ -100,7 +105,7 @@
  ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
     <li><a href="https://medium.com/@ItsRoy69/all-about-hackathons-67260c45394d" />All about Hackathons</a></li>
-    <li><a href="https://hashnode.com/post/how-to-make-ghost-buster-game-in-pygame-cl4715qtf02e782nve8m099i4" />How to make Ghost Buster Game in Pygame</a></li>
+    <li><a href="https://itsroy69-blogs.hashnode.dev/how-to-make-ghost-buster-game-in-pygame" />How to make Ghost Buster Game in Pygame</a></li>
     <li><a href="https://medium.com/@ItsRoy69/demystifying-dark-side-of-web3-0-45dc542bdff1" />Demystifying dark side of web3.0</a></li>
     <li><a href="https://medium.com/@ItsRoy69/ethereum-2-0-2a7c09f75ef5" />ETHEREUM 2.0-The MERGE?</a></li>
 
