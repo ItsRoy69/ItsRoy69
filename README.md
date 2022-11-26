@@ -35,6 +35,11 @@
       <td><a href="https://sckilled.com/"/><b>Sckilled</b></a></td>
       <td> <b>Aug 2022 - Present </b> </td>
    </tr>
+   <tr>
+      <td> <b>Open source contributor</b> </td>
+      <td><a href="https://ssoc.getsocialnow.co/"/><b>Social Summer Of Code</b></a></td>
+      <td> <b>Jun 10 - Oct 1, 2022 </b> </td>
+   </tr>
     <tr>
       <td> <b>Software Developer Intern</b> </td>
       <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
