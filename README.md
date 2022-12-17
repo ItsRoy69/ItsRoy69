@@ -30,10 +30,20 @@
       </tr>
   </thead>
   <tbody> 
+    <tr>
+      <td> <b>Developer Advocate</b> </td>
+      <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
+      <td> <b>Dec 2022 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://mastorktechnologies.com/"/><b>Mastork Technologies</b></a></td>
+      <td> <b>Dec 2022 - Present </b> </td>
+   </tr>
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://sckilled.com/"/><b>Sckilled</b></a></td>
-      <td> <b>Aug 2022 - Present </b> </td>
+      <td> <b>Aug 2022 - Dec 2022 </b> </td>
    </tr>
    <tr>
       <td> <b>Open source contributor</b> </td>
