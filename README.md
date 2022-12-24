@@ -31,6 +31,11 @@
   </thead>
   <tbody> 
     <tr>
+      <td> <b>Technical Lead</b> </td>
+      <td><a href="https://http://productefy.com/"/><b>Productefy</b></a></td>
+      <td> <b>Oct 2022 - Present </b> </td>
+   </tr>
+    <tr>
       <td> <b>Developer Advocate</b> </td>
       <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
       <td> <b>Dec 2022 - Present </b> </td>
@@ -39,6 +44,11 @@
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://mastorktechnologies.com/"/><b>Mastork Technologies</b></a></td>
       <td> <b>Dec 2022 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Freelancing Developer</b> </td>
+      <td><a href="https://airbots.co.in/"/><b>Airbots</b></a></td>
+      <td> <b>Dec 2022 - Jan 2022 </b> </td>
    </tr>
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
@@ -97,6 +107,11 @@
   </thead>
   <tbody> 
     <tr>
+      <td> <b>Event Coordinator</b> </td>
+      <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>Ureckon</b></a></td>
+      <td> <b>Nov 2022 - Present </b> </td>
+   </tr> 
+    <tr>
       <td> <b>Student Coordinator</b> </td>
       <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>GDSC UEMK</b></a></td>
       <td> <b>Aug 2022 - Present </b> </td>
@@ -109,7 +124,7 @@
     <tr>
       <td> <b> Fullstack Developer </b> </td>
       <td><a href="https://www.com/"/><b>ACM-UEM</b></a></td>
-      <td> <b> Nov 2021 - Present  </b> </td>
+      <td> <b> Nov 2021 - Nov 2022  </b> </td>
    </tr>
    
   </tbody>	 
@@ -158,6 +173,7 @@
 
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
+  <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Vice Chancellor's Award for Best Techno Wiz, 2022 </a></li> 
