@@ -173,7 +173,7 @@
 
  
 <h2 align="left">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0</a></li>
+  <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0 among 8450 registrations </a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Vice Chancellor's Award for Best Techno Wiz, 2022 </a></li> 
