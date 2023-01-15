@@ -32,23 +32,24 @@
   <tbody> 
     <tr>
       <td> <b>Technical Lead</b> </td>
-      <td><a href="https://http://productefy.com/"/><b>Productefy</b></a></td>
+      <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
-    <tr>
-      <td> <b>Developer Advocate</b> </td>
-      <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
-      <td> <b>Dec 2022 - Present </b> </td>
-   </tr>
+    
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://mastorktechnologies.com/"/><b>Mastork Technologies</b></a></td>
       <td> <b>Dec 2022 - Present </b> </td>
    </tr>
    <tr>
+      <td> <b>Developer Advocate</b> </td>
+      <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
+      <td> <b>Dec 2022 - Jan 2023 </b> </td>
+   </tr>
+   <tr>
       <td> <b>Freelancing Developer</b> </td>
       <td><a href="https://airbots.co.in/"/><b>Airbots</b></a></td>
-      <td> <b>Dec 2022 - Jan 2022 </b> </td>
+      <td> <b>Dec 2022 - Jan 2023 </b> </td>
    </tr>
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
@@ -58,11 +59,17 @@
    <tr>
       <td> <b>Open source contributor</b> </td>
       <td><a href="https://ssoc.getsocialnow.co/"/><b>Social Summer Of Code</b></a></td>
-      <td> <b>Jun 10 - Oct 1, 2022 </b> </td>
+      <td> <b>Jun 2022 - Oct 2022 </b> </td>
    </tr>
-    <tr>
+    
+<tr>
+      <td> <b> Open source mentor </b> </td>
+      <td><a href="https://drive.google.com/file/d/1pOnrcZdK3xGWoqT3_KEPXhtv6NkfdNeC/view?usp=sharing"/><b>GirlScript Foundation</b></a></td>
+      <td> <b> Feb 2022 - May 2022  </b> </td>
+   </tr>
+   <tr>
       <td> <b>Software Developer Intern</b> </td>
-      <td><a href="https://cgiconnects.ml/"/><b>CGI</b></a></td>
+      <td><a href="https://cgiconnects.com/"/><b>CGI</b></a></td>
       <td> <b>Jan 2022 - May 2022 </b> </td>
    </tr>  
    <tr>
@@ -75,21 +82,17 @@
       <td><a href="https://www.thesparksfoundationsingapore.org"/><b>Sparks Foundation</b></a></td>
       <td> <b> Jan 2022 - Mar 2022  </b> </td>
    </tr>   
-   <tr>
-      <td> <b> Frontend Engineer Intern </b> </td>
-      <td><a href="https://flutrr.com/"/><b>Fluttr</b></a></td>
-      <td> <b> Aug 2021 - Dec 2021  </b> </td>
-   </tr>  
+    
    <tr>
       <td> <b> Open source mentor </b> </td>
       <td><a href="https://drive.google.com/file/d/1nFIWSLEh3YGAIfkkogBC0xoaPdWuezxy/view?usp=sharing"/><b>Diversion</b></a></td>
       <td> <b> Jan 2022 - Apr 2022  </b> </td>
    </tr>
-<tr>
-      <td> <b> Open source mentor </b> </td>
-      <td><a href="https://drive.google.com/file/d/1pOnrcZdK3xGWoqT3_KEPXhtv6NkfdNeC/view?usp=sharing"/><b>GirlScript Foundation</b></a></td>
-      <td> <b> Feb 2022 - May 2022  </b> </td>
-   </tr>
+   <tr>
+      <td> <b> Frontend Engineer Intern </b> </td>
+      <td><a href="https://flutrr.com/"/><b>Fluttr</b></a></td>
+      <td> <b> Aug 2021 - Dec 2021  </b> </td>
+   </tr> 
    </tbody>	 
 </table>
 
