@@ -4,6 +4,20 @@
 <h3  align="center">A passionate Software Developer who break prods more than he build</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
+<div align="center">
+
+---
+
+**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
+**[<kbd> <br> My Opensource Contributions <br> </kbd>](#my-opensource)**
+**[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)** 
+**[<kbd> <br> Achievements <br> </kbd>](#my-achievements)**
+**[<kbd> <br> My Blogs <br> </kbd>](#my-blogs)**
+
+---
+
+</div>
+
 <img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="400" height="300"/> 
 
 <h2 align="left"> About me: 🤔</h2>
@@ -19,7 +33,7 @@
  <br>
   
  
- <h2 align="left">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
+ <h2 align="left" id = "work-experience">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
 <table>
   <thead align="center">
@@ -35,11 +49,15 @@
       <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
-    
+   <tr>
+      <td> <b>Freelancing Developer</b> </td>
+      <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
+      <td> <b>Jan 2023</b> </td>
+   </tr>    
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://mastorktechnologies.com/"/><b>Mastork Technologies</b></a></td>
-      <td> <b>Dec 2022 - Present </b> </td>
+      <td> <b>Dec 2022 - Jan 2023 </b> </td>
    </tr>
    <tr>
       <td> <b>Developer Advocate</b> </td>
@@ -97,8 +115,21 @@
 </table>
 
 
+ <h2 align="left" id = "my-opensource"> 🤝My Open Source Contributions🌐💙 </h2>
 
- <h2 align="left">🏃 Volunteering Experience :🙋‍♂️: :desktop_computer: </h2> 
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
+| --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/406> |
+| [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/382> |
+| [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/414> |
+| [![Github Repo](https://img.shields.io/badge/keploy-website-blue?style=flat-square)](https://github.com/keploy/website) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square) | <https://github.com/keploy/website/pull/14> |
+| [![Github Repo](https://img.shields.io/badge/tauri--apps-tauri--docs-blue?style=flat-square)](https://github.com/tauri-apps/tauri-docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/tauri-apps/tauri-docs?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/tauri-apps/tauri-docs?style=flat-square) | <https://github.com/tauri-apps/tauri-docs/pull/1077> |
+| [![Github Repo](https://img.shields.io/badge/mindsdb-mindsdb-blue?style=flat-square)](https://github.com/mindsdb/mindsdb) | ![GitHub Repo stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/mindsdb/mindsdb?style=flat-square) | <https://github.com/mindsdb/mindsdb/pull/4355> |
+| [![Github Repo](https://img.shields.io/badge/appwrite-pink-blue?style=flat-square)](https://github.com/appwrite/pink) | ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/pink?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/appwrite/pink?style=flat-square) | <https://github.com/appwrite/pink/issues/28> |
+
+
+
+ <h2 align="left" id="volunteering-experience">🏃 Volunteering Experience :🙋‍♂️: :desktop_computer: </h2> 
 
 <table>
   <thead align="center">
@@ -135,7 +166,7 @@
 
 
  
- ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
+  <h2 align="left" id="my-blogs"> Latest Blog Posts :speech_balloon: :clipboard: :black_nib: </h2>
   <ul>
     <li><a href="https://medium.com/@ItsRoy69/all-about-hackathons-67260c45394d" />All about Hackathons</a></li>
     <li><a href="https://itsroy69-blogs.hashnode.dev/how-to-make-ghost-buster-game-in-pygame" />How to make Ghost Buster Game in Pygame</a></li>
@@ -175,7 +206,7 @@
 
 
  
-<h2 align="left">Achievements 🏆🏅🎉</h2> 
+<h2 align="left" id="my-achievements">Achievements 🏆🏅🎉</h2> 
   <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0 among 8450 registrations </a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
