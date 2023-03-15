@@ -50,6 +50,11 @@
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
    <tr>
+      <td> <b>Developer Advocate</b> </td>
+      <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
+      <td> <b>Dec 2022 - Present </b> </td>
+   </tr>
+   <tr>
       <td> <b>Freelancing Developer</b> </td>
       <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
       <td> <b>Jan 2023</b> </td>
@@ -57,11 +62,6 @@
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://mastorktechnologies.com/"/><b>Mastork Technologies</b></a></td>
-      <td> <b>Dec 2022 - Jan 2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b>Developer Advocate</b> </td>
-      <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
       <td> <b>Dec 2022 - Jan 2023 </b> </td>
    </tr>
    <tr>
@@ -119,6 +119,8 @@
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/keploy-student--program-blue?style=flat-square)](https://github.com/keploy/student-program) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square) | <https://github.com/keploy/student-program/pull/16> |
+| [![Github Repo](https://img.shields.io/badge/slint--ui-slint-blue?style=flat-square)](https://github.com/slint-ui/slint) | ![GitHub Repo stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/slint-ui/slint?style=flat-square) | <https://github.com/slint-ui/slint/pull/2364> |
 | [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/406> |
 | [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/382> |
 | [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/414> |
@@ -143,7 +145,7 @@
     <tr>
       <td> <b>Event Coordinator</b> </td>
       <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>Ureckon</b></a></td>
-      <td> <b>Nov 2022 - Present </b> </td>
+      <td> <b>Nov 2022 - Jan 2023 </b> </td>
    </tr> 
     <tr>
       <td> <b>Student Coordinator</b> </td>
@@ -207,6 +209,7 @@
 
  
 <h2 align="left" id="my-achievements">Achievements 🏆🏅🎉</h2> 
+  <li><a href="https://summerofcode.withgoogle.com/programs/2023/organizations/keploy" /> Google Summer of Code Mentor at Code for Cause helping students contribute to Open Source projects for social good under the umbrella of Red Hat Middleware. </a></li>
   <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0 among 8450 registrations </a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
