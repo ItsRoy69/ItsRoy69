@@ -209,7 +209,7 @@
 
  
 <h2 align="left" id="my-achievements">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://summerofcode.withgoogle.com/programs/2023/organizations/keploy" /> Google Summer of Code Mentor at Code for Cause helping students contribute to Open Source projects for social good under the umbrella of Red Hat Middleware. </a></li>
+  <li><a href="https://summerofcode.withgoogle.com/programs/2023/organizations/keploy" /> Google Summer of Code Mentor at Keploy helping students contribute to Open Source projects for social good under the umbrella of Keploy Test Cases. </a></li>
   <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0 among 8450 registrations </a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
