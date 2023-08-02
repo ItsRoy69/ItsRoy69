@@ -2,7 +2,7 @@
 
 <h2  align="center">Hi <img src="https://github.com/ItsRoy69/ItsRoy69/blob/main/Hi.gif" width="30">, I'm Jyotirmoy Roy !!</h2>
 <h3  align="center">A passionate Software Developer who break prods more than he build</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Interested+in+𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+Development+...;Be+Consistent.+Have+a+good+day+!!"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Be+Consistent.+Have+a+good+day+!!"></p>
 
 <div align="center">
 
@@ -46,19 +46,29 @@
   <tbody> 
     <tr>
       <td> <b>Technical Lead</b> </td>
-      <td><a href="https://productefy.com/"/><b>Productefy</b></a></td>
+      <td><a href="https://irlamigo.com/"/><b>IRLAmigo</b></a></td>
       <td> <b>Oct 2022 - Present </b> </td>
    </tr>
    <tr>
       <td> <b>Developer Advocate</b> </td>
       <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
-      <td> <b>Dec 2022 - Present </b> </td>
-   </tr>
+      <td> <b>Feb 2023 - May 2023 </b> </td>
+   </tr>   
    <tr>
       <td> <b>Freelancing Developer</b> </td>
       <td><a href="https://iatsat.in/"/><b>IATSAT</b></a></td>
       <td> <b>Jan 2023</b> </td>
-   </tr>    
+   </tr> 
+   <tr>
+      <td> <b>Freelancing Developer</b> </td>
+      <td><a href="https://airbotsaerospace.com/"/><b>AirBots Aerospace Private Limited</b></a></td>
+      <td> <b>Dec 2022 - Jan 2023</b> </td>
+   </tr> 
+   <tr>
+      <td> <b>Developer Advocate Intern</b> </td>
+      <td><a href="https://keploy.io/"/><b>Keploy</b></a></td>
+      <td> <b>Dec 2022 - Feb 2023 </b> </td>
+   </tr>   
    <tr>
       <td> <b>Software Engineer Intern</b> </td>
       <td><a href="https://mastorktechnologies.com/"/><b>Mastork Technologies</b></a></td>
@@ -119,6 +129,8 @@
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/civo-terraform--provider--civo-blue?style=flat-square)](https://github.com/civo/terraform-provider-civo) | ![GitHub Repo stars](https://img.shields.io/github/stars/civo/terraform-provider-civo?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/civo/terraform-provider-civo?style=flat-square) | <https://github.com/civo/terraform-provider-civo/pull/175> |
+| [![Github Repo](https://img.shields.io/badge/appwrite-pink-blue?style=flat-square)](https://github.com/appwrite/pink) | ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/pink?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/appwrite/pink?style=flat-square) | <https://github.com/appwrite/pink/pull/72> |
 | [![Github Repo](https://img.shields.io/badge/keploy-student--program-blue?style=flat-square)](https://github.com/keploy/student-program) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square) | <https://github.com/keploy/student-program/pull/16> |
 | [![Github Repo](https://img.shields.io/badge/slint--ui-slint-blue?style=flat-square)](https://github.com/slint-ui/slint) | ![GitHub Repo stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/slint-ui/slint?style=flat-square) | <https://github.com/slint-ui/slint/pull/2364> |
 | [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | <https://github.com/moja-global/community-website/pull/406> |
@@ -150,7 +162,7 @@
     <tr>
       <td> <b>Student Coordinator</b> </td>
       <td><a href="https://gdsc.community.dev/university-of-engineering-management-kolkata/"/><b>GDSC UEMK</b></a></td>
-      <td> <b>Aug 2022 - Present </b> </td>
+      <td> <b>Aug 2022 - Aug 2023 </b> </td>
    </tr>  
    <tr>
       <td> <b>Fullstack Developer</b> </td>
@@ -209,12 +221,13 @@
 
  
 <h2 align="left" id="my-achievements">Achievements 🏆🏅🎉</h2> 
-  <li><a href="https://summerofcode.withgoogle.com/programs/2023/organizations/keploy" /> Google Summer of Code Mentor at Keploy helping students contribute to Open Source projects for social good under the umbrella of Keploy Test Cases. </a></li>
+  <li><a href="https://summerofcode.withgoogle.com/programs/2023/organizations/keploy" /> Google Summer of Code Mentor'2023 at Keploy helping students contribute to Open Source projects for social good under the umbrella of Keploy Test Cases. </a></li>
   <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0 among 8450 registrations </a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> 1st Prize In HackOdisha 2.0 for use of Twilio(NIT Rourkela,2022)</a></li>
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Got selected as the GDSC UEMK Coordinator (2022-23)</a></li> 
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Vice Chancellor's Award for Best Techno Wiz, 2022 </a></li> 
   <li><a href="https://drive.google.com/file/d/1tgtS33S-BOGy5rFfWgYGitk87FjvG5iu/view?usp=sharing" /> Microsoft Learn Student Ambassador among 100,000 registrations around the world (2022-24)</a></li> 
+  <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> Shortlisted among top 10 performer in GDG Cloud Kolkata Hackathon among 1000+ registrations (2022)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In Web/App Hackathon (NIT Mizoram,2022)</a></li> 
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In GameJam (PU,2022)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1vkEFjRrr7gpH5pbL_Bjq9HQ4Wyi2VZaV" /> 1st Prize In IemHacks (IEMK,2022)</a></li>
