@@ -125,21 +125,6 @@
 </table>
 
 
- <h2 align="left" id = "my-opensource"> 🤝My Open Source Contributions🌐💙 </h2>
-
-| 🎁 Repo | ⭐ Stars | 📚 Forks | 
-| --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/civo-terraform--provider--civo-blue?style=flat-square)](https://github.com/civo/terraform-provider-civo) | ![GitHub Repo stars](https://img.shields.io/github/stars/civo/terraform-provider-civo?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/civo/terraform-provider-civo?style=flat-square) |
-| [![Github Repo](https://img.shields.io/badge/keploy-student--program-blue?style=flat-square)](https://github.com/keploy/student-program) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square) | 
-| [![Github Repo](https://img.shields.io/badge/slint--ui-slint-blue?style=flat-square)](https://github.com/slint-ui/slint) | ![GitHub Repo stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/slint-ui/slint?style=flat-square) | 
-| [![Github Repo](https://img.shields.io/badge/moja--global-community--website-blue?style=flat-square)](https://github.com/moja-global/community-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/moja-global/community-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/moja-global/community-website?style=flat-square) | 
-| [![Github Repo](https://img.shields.io/badge/keploy-website-blue?style=flat-square)](https://github.com/keploy/website) | ![GitHub Repo stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square)
-| [![Github Repo](https://img.shields.io/badge/tauri--apps-tauri--docs-blue?style=flat-square)](https://github.com/tauri-apps/tauri-docs) | ![GitHub Repo stars](https://img.shields.io/github/stars/tauri-apps/tauri-docs?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/tauri-apps/tauri-docs?style=flat-square) | 
-| [![Github Repo](https://img.shields.io/badge/mindsdb-mindsdb-blue?style=flat-square)](https://github.com/mindsdb/mindsdb) | ![GitHub Repo stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/mindsdb/mindsdb?style=flat-square) | 
-| [![Github Repo](https://img.shields.io/badge/appwrite-pink-blue?style=flat-square)](https://github.com/appwrite/pink) | ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/pink?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/appwrite/pink?style=flat-square) | 
-
-
-
  <h2 align="left" id="volunteering-experience">🏃 Volunteering Experience :🙋‍♂️: :desktop_computer: </h2> 
 
 <table>
