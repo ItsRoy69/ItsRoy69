@@ -9,7 +9,6 @@
 ---
 
 **[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
-**[<kbd> <br> My Opensource Contributions <br> </kbd>](#my-opensource)**
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)** 
 **[<kbd> <br> Achievements <br> </kbd>](#my-achievements)**
 **[<kbd> <br> My Blogs <br> </kbd>](#my-blogs)**
@@ -17,21 +16,6 @@
 ---
 
 </div>
-
-<img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="400" height="300"/> 
-
-<h2 align="left"> About me: 🤔</h2>
-• 🌱 I’m currently exploring 𝐖𝐞𝐛 𝟑.𝟎 🌐</p>
-• 👯 I’m looking to collaborate on 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
-• 💬 Ask me about 𝐌𝐄𝐑𝐍 & 𝐃𝐒𝐀 </p>
-• 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jyotirmoyroy649@gmail.com">here .</p></a>
-• ⚡ Fun fact - People procrastinate more!!</p>
-• :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
-
-
- <br>
- <br>
-  
  
  <h2 align="left" id = "work-experience">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
