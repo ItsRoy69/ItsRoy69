@@ -158,34 +158,6 @@
 
 
 
- ## Popular Open-Source Repositories you can Contribute🔺👑
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-	 <td><b>🛎 Issues</b></td>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-	    <td><a href="https://github.com/ItsRoy69/DocTalk"><b>DocTalk</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/DocTalk?style=flat-round&labelColor=343b41"/></td>    
-      </tr>	
-      <tr>
-            <td><a href="https://github.com/ItsRoy69/VestTech"><b>VestTech</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/ItsRoy69/VestTech?style=flat-round&labelColor=343b41"/></td>
-     </tr> 
-  </tbody>	 
-</table>
-
-
- 
 <h2 align="left" id="my-achievements">Achievements 🏆🏅🎉</h2> 
   <li><a href="https://summerofcode.withgoogle.com/programs/2023/organizations/keploy" /> Google Summer of Code Mentor'2023 at Keploy helping students contribute to Open Source projects for social good under the umbrella of Keploy Test Cases. </a></li>
   <li><a href="https://drive.google.com/file/d/1kntEjFIKdOzNHuoR8KGUEo9Vbs6VITtN/view?usp=share_link" /> Shortlisted among top 10 performer in Xiaomi Ode2Code2.0 among 8450 registrations </a></li>
