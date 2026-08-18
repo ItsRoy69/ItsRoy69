@@ -28,10 +28,30 @@
       </tr>
   </thead>
   <tbody> 
+   <tr>
+      <td> <b>Software Engineer</b> </td>
+      <td><a href="https://"/><b>Stealth</b></a></td>
+      <td> <b>Apr 2024 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Product Lead</b> </td>
+      <td><a href="https://catoff.xyz/"/><b>Catoff</b></a></td>
+      <td> <b>Apr 2025 - Aug 2025 </b> </td>
+   </tr>
+   <tr>
+      <td> <b>Software Engineer Trainee</b> </td>
+      <td><a href="https://enview.com/"/><b>Enview</b></a></td>
+      <td> <b>Jan 2024 - Mar 2024 </b> </td>
+   </tr>
+    <tr>
+      <td> <b>Software Engineer Intern</b> </td>
+      <td><a href="https://pephub.tech/"/><b>Pephub</b></a></td>
+      <td> <b>Jun 2023 - Sep 2023 </b> </td>
+   </tr>
     <tr>
       <td> <b>Technical Lead</b> </td>
       <td><a href="https://irlamigo.com/"/><b>IRLAmigo</b></a></td>
-      <td> <b>Oct 2022 - Present </b> </td>
+      <td> <b>Oct 2022 - Jan 2023 </b> </td>
    </tr>
    <tr>
       <td> <b>Developer Advocate</b> </td>
